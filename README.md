@@ -1,8 +1,7 @@
 How to share data with a statistician 
-
-
-Forked by Leonardo Moreno Naranjo
 ===========
+
+*Forked by Leonardo Moreno Naranjo
 
 This is a guide for anyone who needs to share data with a statistician or data scientist. The target audiences I have in mind are:
 
